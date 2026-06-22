@@ -1,0 +1,19 @@
+streamlit>=1.32.0
+altair>=5.0.0
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+Pillow>=10.0.0
+torch>=2.1.0
+torchvision>=0.16.0
+timm>=0.9.12
+transformers>=4.38.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+
+# RAG (Lecture Q&A) dependencies — wrapped in try/except in app.py,
+# but required for the FAISS + SentenceTransformers + NVIDIA NIM features
+faiss-cpu>=1.7.4
+sentence-transformers>=2.5.0
+openai>=1.10.0
