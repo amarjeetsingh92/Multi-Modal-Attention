@@ -67,7 +67,7 @@ Instructors rarely get real-time, objective feedback on whether their class is a
   [![Watch the demo](assets/video-thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
 -->
 
-> 🔲 *Add your demo video/GIF here — a 30–60 second walkthrough showing live gaze tracking, the attention chart updating, and the Lecture Q&A tab works best.*
+> 🔲 https://drive.google.com/file/d/1yhF-uMenprZV39LPQCGUXBiivZ35B86h/view?usp=drive_link
 
 ---
 
